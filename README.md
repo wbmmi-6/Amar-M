@@ -1,6 +1,6 @@
-# TECHWORD MD
+# AMAR MD
 
-<img src="https://i.ibb.co/nswZ9WcB/upload-1770456482848-a76a1a20-jpg.jpg" width="640" align="right"/>
+<img src="https://iili.io/fix5gKg.png" width="640" align="right"/>
 
 Advanced WhatsApp bot with premium features.
 
@@ -66,7 +66,7 @@ Advanced WhatsApp bot with premium features.
 ## Support
 
 **Developer**: Courtney  
-**Contact**: +254743037984
+**Contact**: +233532871325
 **GitHub**: [Courtney250](https://github.com/Courtney250)
 
 ---
