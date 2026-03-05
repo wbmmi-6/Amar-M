@@ -1,7 +1,7 @@
 {
-  "name": "Techword-md",
+  "name": "AMAR-MD",
   "version": "1.0.0",
-  "description": "Simple nodejs WhatsApp Bot by Dave Tech",
+  "description": "Simple nodejs WhatsApp Bot by Amar",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
